@@ -42,6 +42,15 @@ I'm David San
       />
       <br /><strong>React</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://svgshare.com/s/jqP"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>Python</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
