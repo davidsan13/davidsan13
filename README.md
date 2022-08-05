@@ -1,5 +1,5 @@
 # 👋 Hi! I'm David San.
-
+I'm a Front-end Engineer with a keen interest in the field of Software Development. Always willing to learn new tech stacks to improve my skills. 
 
 ## What I'm focusing on 👨‍💻
 - React Skills
