@@ -2,6 +2,8 @@
 
 I'm David San, a Front-end Engineer
 
+## What I'm focusing on 👨‍💻
+
 ## Technologies & Tools
 
 <table>
@@ -99,6 +101,8 @@ I'm David San, a Front-end Engineer
     </td>
   </tr>
 </table>
+
+##Github Stats
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsan13)](https://github.com/davidsan13/github-readme-stats)
 
