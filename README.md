@@ -44,7 +44,7 @@ I'm David San
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="<a href='https://svgshare.com/s/jqP' ><img src='https://svgshare.com/i/jqP.svg' title='python' /></a>"
+        src="'https://svgshare.com/i/jqP.svg' title='python'"
         width="48"
         height="48"
         alt="React"
