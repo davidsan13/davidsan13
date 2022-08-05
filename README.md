@@ -5,7 +5,6 @@ I'm David San, a Front-end Engineer
 ## What I'm focusing on 👨‍💻
 - React Skills
 - Testing
-- 
 
 ## Technologies & Tools
 
@@ -109,6 +108,6 @@ I'm David San, a Front-end Engineer
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsan13)](https://github.com/davidsan13/github-readme-stats)
 
-## Social
+### Get in Touch 💬
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidsan13/)](https://www.linkedin.com/in/davidsan13/) 
 
