@@ -100,5 +100,5 @@ I'm David San
   </tr>
 </table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsan13)](https://github.com/davidsan13/github-readme-stats)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsan13)](https://github.com/davidsan13/github-readme-stats)
 
