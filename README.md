@@ -1,6 +1,5 @@
-### 👋 Hi! 
+# 👋 Hi! I'm David San.
 
-# I'm David San, a Front-end Engineer
 
 ## What I'm focusing on 👨‍💻
 - React Skills
