@@ -99,6 +99,15 @@ A passionate Front-end Engineer from California with a keen interest in the fiel
       />
       <br /><strong>Jest</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://svgshare.com/i/kGH.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+      <br /><strong>Figma</strong>
+    </td>
   </tr>
 </table>
 
