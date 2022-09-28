@@ -49,9 +49,19 @@ A passionate Front-end Engineer from California with a keen interest in the fiel
         src="https://svgshare.com/i/jqP.svg"
         width="48"
         height="48"
-        alt="React"
+        alt="Python"
       />
       <br /><strong>Python</strong>
+    </td>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.gstatic.com/devrel-devsite/prod/vab219352c525c8fb05bd0fd3ca06d9eb1d0a150a1bba4081d8880459dfe83504/firebase/images/touchicon-180.png"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br /><strong>Firebase</strong>
     </td>
   </tr>
   <tr>
@@ -101,10 +111,10 @@ A passionate Front-end Engineer from California with a keen interest in the fiel
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://svgshare.com/i/kGH.svg"
+        src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&q=75&fit=max&auto=format&dpr=2"
         width="48"
         height="48"
-        alt="Jest"
+        alt="Figma"
       />
       <br /><strong>Figma</strong>
     </td>
