@@ -1,4 +1,4 @@
-# 👋 Hi! I'm David San.
+# 👋 Hi! I'm David S.
 A passionate Front-end Engineer from California with a keen interest in the field of Software Development. Always willing to learn new tech stacks to improve my skills. 
 
 ## What I'm focusing on 👨‍💻
