@@ -121,3 +121,4 @@ A passionate Front-end Engineer from California with a keen interest in the fiel
         height="48"
         alt="Figma"
       />
+      <br /><strong>Figma</strong>
