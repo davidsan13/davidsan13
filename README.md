@@ -120,3 +120,4 @@ A passionate full-stack engineer from California with a keen interest in the fie
         alt="Figma"
       />
       <br /><strong>Figma</strong>
+    </td>
