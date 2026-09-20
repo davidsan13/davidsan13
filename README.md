@@ -121,3 +121,6 @@ A passionate full-stack engineer from California with a keen interest in the fie
       />
       <br /><strong>Figma</strong>
     </td>
+</table>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=davidsan13)](https://github.com/stats-organization/github-stats-extended)
